@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "227jZJXkngmIVm5wfAn/WwyHNT6p7zuTEQOQzM9+Ouc4nhVYYNwWSQFzrI3ttQiRheUZY0ak3SNE5Kv4Pl/f+A==",
+  "dgSpecHash": "C+HyQSY0ST0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\afabian\\source\\repos\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+  "projectFilePath": "C:\\Users\\afabian\\Source\\Repos\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\afabian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\afabian\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
